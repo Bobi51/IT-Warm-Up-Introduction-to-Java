@@ -1,6 +1,6 @@
 package basics_of_scd;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Task_1 {
     public static void main(String[] args) {
